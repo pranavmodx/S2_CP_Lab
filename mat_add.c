@@ -1,18 +1,24 @@
 // Program to add two 3x3 matrices.
 
-#include<stdio.h>
+#include <stdio.h>
 
-void inputMat(int arr[3][3]) {
-    for (int i=0;i<3;i++) {
-        for (int j=0;j<3;j++) {
+void inputMat(int arr[3][3])
+{
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
             scanf("%d", &arr[i][j]);
         }
     }
 }
 
-void displayMat(int arr[3][3]) {
-    for (int i=0;i<3;i++) {
-        for (int j=0;j<3;j++) {
+void displayMat(int arr[3][3])
+{
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
             printf("%d ", arr[i][j]);
         }
         printf("\n");
@@ -20,15 +26,19 @@ void displayMat(int arr[3][3]) {
     printf("\n");
 }
 
-void addMat(int m1[3][3], int m2[3][3], int p[3][3]) {
-    for (int i=0;i<3;i++) {
-        for (int j=0;j<3;j++) {
+void addMat(int m1[3][3], int m2[3][3], int p[3][3])
+{
+    for (int i = 0; i < 3; i++)
+    {
+        for (int j = 0; j < 3; j++)
+        {
             p[i][j] = m1[i][j] + m2[i][j];
         }
     }
 }
 
-int main() {
+int main()
+{
     int mat1[3][3], mat2[3][3], add[3][3];
 
     printf("Enter elements of matrix 1 : ");
