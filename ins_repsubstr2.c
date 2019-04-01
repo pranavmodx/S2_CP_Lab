@@ -1,4 +1,4 @@
-// Program v2 to replace a given substring in a main string with another
+// Program v2 (using built-in functions) to replace a given substring in a main string with another
 
 #include <stdio.h>
 #include <string.h>
