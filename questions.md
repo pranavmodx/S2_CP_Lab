@@ -33,6 +33,8 @@
 16. Write a C program to print the transpose of a given matrix using function.
 17. Write a C program that uses a function to reverse a given string
 
+---
+
 # Structures and unions
 
 1.  Write a C program that uses functions to perform the following operations:
