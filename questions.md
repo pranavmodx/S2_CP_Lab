@@ -1,4 +1,4 @@
-Decision making, branching and looping
+# Decision making, branching and looping
 
 1.  Write a C program to evaluate the arithmetic expression ((a + b / c _ d - e) _ (f - g)). Read the values a, b, c, d, e, f, g from the standard input device.
 2.  Write a C program to find the sum of individual digits of a 3 digit number
@@ -11,7 +11,7 @@ Decision making, branching and looping
     c. 1 2 3
     d. 1 2 3 4
 
-Arrays and strings
+# Arrays and strings
 
 7.  Write a C program to find the second largest integer in a list of integers.
 8.  Write a C program to perform the following: i. Addition of two matrices ii. Multiplication of two matrices
@@ -24,7 +24,7 @@ Arrays and strings
 13. Write a C program to find a string within a sentence and replace it with another string.
 14. Write a C program that reads a line of text and counts all occurrence of a particular word.
 
-Functions
+# Functions
 
 15. Write C programs that use both recursive and non-recursive functions
     a. To find the factorial of a given integer.
@@ -33,7 +33,7 @@ Functions
 16. Write a C program to print the transpose of a given matrix using function.
 17. Write a C program that uses a function to reverse a given string
 
-Structures and unions
+# Structures and unions
 
 1.  Write a C program that uses functions to perform the following operations:
     i. Reading a complex number
@@ -45,7 +45,7 @@ Structures and unions
 4.  Create a union containing 6 strings: name, home_address, hostel_address, city, state and zip. Write a C program to display your present address.
 5.  Write a C program to define a structure named DOB, which contains name, day, month and year. Using the concept of nested structures display your name and date of birth.
 
-Pointers
+# Pointers
 
 6.  Write a C program to concatenate two strings using pointers.
 7.  Write a C program to find the length of string using pointers.
@@ -53,7 +53,7 @@ Pointers
 9.  Write a C program to copy a string from source to destination using pointers.
 10. Write a C program to reverse a string using pointers.
 
-Files, memory allocation, bit-level programming
+# Files, memory allocation, bit-level programming
 
 11. Write a C program to display the contents of a file.
 12. Write a C program to copy the contents of one file to another.
